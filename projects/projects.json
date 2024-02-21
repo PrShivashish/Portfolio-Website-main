@@ -1,0 +1,123 @@
+[
+  {
+    "name": "Vane VPN",
+    "desc": "Responsive website utilizing HTML, CSS, and JavaScript for Vane VPN, enhancing user privacy and security.",
+    "image": "vanevpn",
+    "category": "Web",
+    "links": {
+      "view": "https://prshivashish.github.io/Landing-Page-1/",
+      "code": "https://github.com/PrShivashish/Landing-Page-1"
+    }
+  },
+  {
+    "name": "Groove",
+    "desc": "Modern virtual event management site Groove showcasing JavaScript, php, bootstrap, nodejs frontend development skills.",
+    "image": "groove",
+    "category": "web",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/PrShivashish/Virtual-Event-Management-Website"
+    }
+  },
+  
+  {
+    "name": "3D-Menubar",
+    "desc": "Interactive 3D menubar website crafted with HTML, CSS, and JavaScript, enhancing user experience and navigation.",
+    "image": "menubar",
+    "category": "web",
+    "links": {
+      "view": "https://prshivashish.github.io/Stranger-Things-menu-bar-3d/",
+      "code": "https://github.com/PrShivashish/Stranger-Things-menu-bar-3d"
+    }
+  },
+  {
+    "name": "New Year",
+    "desc": "Interactive New Year animation website created with HTML, CSS, JavaScript, reactjs, bootstrap featuring dynamic elements and engaging visuals",
+    "image": "newyear",
+    "category": "web",
+    "links": {
+      "view": "https://prshivashish.github.io/New-Year-2024/",
+      "code": "https://github.com/PrShivashish/New-Year-2024"
+    }
+  },
+  {
+    "name": "FoodHub",
+    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
+    "image": "foodhub",
+    "category": "web",
+    "links": {
+      "view": "https://www.linkedin.com/posts/shivashish-prusty-9a134429a_webdevelopment-codingcuisine-htmlcssmagic-activity-7141995293398478848-nqXB?utm_source=share&utm_medium=member_android",
+      "code": "https://github.com/PrShivashish/ByteBash-Hackathon-Food_Recipe_Website"
+    }
+  },
+  {
+    "name": "Soil Erosion",
+    "desc": "Interactive website addressing soil erosion with HTML5, CSS3, JavaScript, wordpress providing comprehensive insights and solutions.",
+    "image": "soil",
+    "category": "web",
+    "links": {
+      "view": "https://prshivashish.github.io/Soil-Erosion-Website-Uncovering-The-Impact/",
+      "code": "https://github.com/PrShivashish/Soil-Erosion-Website-Uncovering-The-Impact"
+    }
+  },
+  {
+    "name": "Parallax-Website",
+    "desc": "A dynamic parallax website crafted with HTML, CSS, JavaScript, Bootstrap offering immersive scrolling experiences.",
+    "image": "parallax",
+    "category": "web",
+    "links": {
+      "view": "https://prshivashish.github.io/Forest-Parallex-Website-main/",
+      "code": "https://github.com/PrShivashish/Forest-Parallex-Website-main"
+    }
+  },
+  {
+    "name": "Calculator",
+    "desc": "Interactive calculator website developed with JavaScript, Python, CSS3 showcasing arithmetic operations and user-friendly interface.",
+    "image": "calculator",
+    "category": "web",
+    "links": {
+      "view": "https://prshivashish.github.io/Calculator/",
+      "code": "https://github.com/PrShivashish/Calculator"
+    }
+  },
+  {
+    "name": "Pathway-Travel Site",
+    "desc": "Pathway: A dynamic travel website crafted with HTML, CSS, and JavaScript for seamless exploration and booking experiences.",
+    "image": "pathway",
+    "category": "web",
+    "links": {
+      "view": "https://prshivashish.github.io/Travel-Professional-website/",
+      "code": "https://github.com/PrShivashish/Travel-Professional-website"
+    }
+  },
+  {
+    "name": "Growth",
+    "desc": "Modern website Growth showcasing frontend development skills with bootstrap, CSS, JavaScript, ReactJS for an engaging user experience.",
+    "image": "growth",
+    "category": "web",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/PrShivashish/Professional-Startup-Website"
+    }
+  },
+  {
+    "name": "3D Cube",
+    "desc": "Interactive 3D cube website with multi-window interaction, crafted using JS, ReactJS, Bootstrap for engaging user experiences.",
+    "image": "cube",
+    "category": "web",
+    "links": {
+      "view": "https://prshivashish.github.io/3D-Design-1/",
+      "code": "https://github.com/PrShivashish/3D-Design-1"
+    }
+  },
+  {
+    "name": "3D Sphere",
+    "desc": "Interactive 3D sphere web application featuring multi-window interaction, crafted with JS, ReactJS, NodeJS, Bootstrap.",
+    "image": "sphere",
+    "category": "web",
+    "links": {
+      "view": "https://prshivashish.github.io/3D-Design-2/",
+      "code": "https://www.linkedin.com/posts/shivashish-prusty-9a134429a_webdesign-javascriptmagic-html5-activity-7147133996697542656-LZ3h?utm_source=share&utm_medium=member_android"
+    }
+  }
+]
