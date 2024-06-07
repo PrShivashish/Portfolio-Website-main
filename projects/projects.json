@@ -1,5 +1,16 @@
 [
   {
+    "name": "Sentiment Analysis Chatbot",
+    "desc": "Emoji feedback-enabled sentiment analysis chatbot using TextBlob for real-time analysis. It uses NLP, Text analyzing technology.",
+    "image": "chatbot",
+    "category": "chatbot",
+    "links": {
+      "view": "https://www.linkedin.com/feed/update/urn:li:activity:7204731780900286466/",
+      "code": "https://github.com/PrShivashish/Sentimental-Analysis-Chatbot"
+    }
+  },
+  
+  {
     "name": "Vane VPN",
     "desc": "Responsive website utilizing HTML, CSS, and JavaScript for Vane VPN, enhancing user privacy and security.",
     "image": "vanevpn",
